@@ -16,9 +16,11 @@ Report of this project can be found [here](https://github.com/dnshkmr7/jinabase-
 
 ### Regression
 
-<div align=center> <img src="Figures/performance_0.png" width="300" title="Random Forest"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Figures/performance_1.png" width="300" title="Support Vector"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Figures/performance_2.png" width="300" title="k_Nearest Neighbors"/></div><br>
+<div align=center> <img src="Figures/performance_0.png" width="400" title="Random Forest"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Figures/performance_1.png" width="400" title="Support Vector"/></div><br>
 
-<div align=center> <img src="Figures/performance_3.png" width="300" title="XGBoost"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Figures/performance_4.png" width="300" title="Multilayer Perceptron"/></div>
+<div align=center> <img src="Figures/performance_2.png" width="400" title="k_Nearest Neighbors"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="Figures/performance_3.png" width="400" title="XGBoost"/></div><br>
+  
+<div align=center> <img src="Figures/performance_4.png" width="400" title="Multilayer Perceptron"/></div>
 
 ### Classification
 
