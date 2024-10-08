@@ -112,7 +112,7 @@ Report of this project can be found [here](https://github.com/dnshkmr7/jinabase-
 </div>
 
 ## Predictions
-Interactive 3D plot can be found [here](https://dnshkmr7.github.io/jinabase-predictions/).
+Interactive 3D plot can be found [here](https://dnshkmr7.github.io/EP4130-jinabase/).
 
 <div align=center> <img src="Figures/final_plot.png" width="750" title="Scatter Plot"/></div>
 
