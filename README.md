@@ -4,7 +4,7 @@ Primarily applied pandas, and scikit-learn tools on [JINAbase](https://jinabase.
 * regression/imputation - predict missing microturbulence values
 * classification - classify stars based on stellar types
 
-Report of this project can be found [here](https://github.com/dnshkmr7/jinabase-predictions/blob/main/EP4130_Project.pdf).
+Report of this project can be found [here](https://github.com/dnshkmr7/jinabase-predictions/blob/main/EP4130_Project.pdf). Requirements can be found in the YAML file [here](https://github.com/dnshkmr7/EP4130-jinabase/blob/main/ep4130.yml)
 
 ## Exploratory Data Analysis
 
